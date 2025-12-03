@@ -1,11 +1,7 @@
 *{
-    margin: 0;
-    padding: 0;
+    background-color: darkmagenta;
 }
 h3{
     background-color: cornsilk;
-    font-size:50px;
-    text-decoration-color: aquamarine;
-    text-decoration-line: overline;
-    text-transform: var(text-transform);
+    text-decoration-color: rgb(127, 255, 159);
 }
