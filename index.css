@@ -3,9 +3,13 @@
 }
 h3{
     background-color: cornsilk;
+<<<<<<< HEAD
     font-size:50px;
     text-decoration-color: aquamarine;
     text-decoration-line: overline;
     text-transform: var(text-transform);
     margin-top: 80px;
+=======
+    text-decoration-color: rgb(127, 255, 159);
+>>>>>>> d2edd6c6316c5a7087d9740391c3332f3895f6c0
 }
